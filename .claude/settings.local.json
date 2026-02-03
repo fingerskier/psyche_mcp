@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git ls-tree:*)",
+      "Bash(git -C \"C:\\\\dev\\\\fingerskier\\\\agent\\\\psyche_mcp\" log --oneline --all)",
+      "WebFetch(domain:spec.modelcontextprotocol.io)",
+      "Bash(tree:*)"
+    ]
+  }
+}
